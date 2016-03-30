@@ -12,6 +12,7 @@ icon: glyphicon-play
 
 
 ### iOS v1.0.3
+
 =======
 
 * 升级了接口
@@ -20,6 +21,7 @@ icon: glyphicon-play
 
 
 ###  2015-01-07 / Android v1.0.0 
+
 =======
 
 发布了第一版。
@@ -32,14 +34,16 @@ icon: glyphicon-play
 
 
 ### Android v1.0.3
+
 =======
 
-*升级了接口
+* 升级了接口
 
 
 
 
 ### 2015-01-07 / Android v1.0.0
+
 =======
 
 发布了第一版。
