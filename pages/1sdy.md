@@ -2,7 +2,7 @@
 layout: page
 title: 更新志
 permalink: /changelog
-icon: glyphicon-play
+icon: glyphicon-time
 ---
 
 ## 赛导游iOS版 
