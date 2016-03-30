@@ -1,4 +1,4 @@
-<---
+---
 layout: page
 title: 赛导游更新日志
 permalink: /changelog
