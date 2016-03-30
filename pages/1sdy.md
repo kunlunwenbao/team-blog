@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 赛导游更新日志
+title: 更新日志
 permalink: /changelog
 icon: glyphicon-play
 ---
@@ -12,29 +12,30 @@ icon: glyphicon-play
 
 
 ### iOS v1.0.3
-
+=======
 * 升级了接口
 
 
 
-### 2015-01-07 / Android v1.0.0
 
+###  2015-01-07 / Android v1.0.0 
+=======
 发布了第一版。
 
 
-
+<br/><br/><br/>
 
 
 ## 赛导游Android版
 
 
 ### Android v1.0.3
-
+=======
 *升级了接口
 
 
 
 
 ### 2015-01-07 / Android v1.0.0
-
+=======
 发布了第一版。
