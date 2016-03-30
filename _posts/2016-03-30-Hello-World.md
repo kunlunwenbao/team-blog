@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll 搭建静态博客"
+title:  "Hello World"
 date:   2016-03-15 22:14:54
 categories: Hello
 excerpt: Jekyll Hello
