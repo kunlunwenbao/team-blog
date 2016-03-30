@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 更新日志
+title: 更新志
 permalink: /changelog
 icon: glyphicon-play
 ---
@@ -13,6 +13,7 @@ icon: glyphicon-play
 
 ### iOS v1.0.3
 =======
+
 * 升级了接口
 
 
@@ -20,6 +21,7 @@ icon: glyphicon-play
 
 ###  2015-01-07 / Android v1.0.0 
 =======
+
 发布了第一版。
 
 
@@ -31,6 +33,7 @@ icon: glyphicon-play
 
 ### Android v1.0.3
 =======
+
 *升级了接口
 
 
@@ -38,4 +41,5 @@ icon: glyphicon-play
 
 ### 2015-01-07 / Android v1.0.0
 =======
+
 发布了第一版。
