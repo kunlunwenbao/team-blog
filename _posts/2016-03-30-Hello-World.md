@@ -10,7 +10,6 @@ tag: [Other]
 * content
 {:toc}
 
-
 ## Hello World
 
 第一篇日志。
