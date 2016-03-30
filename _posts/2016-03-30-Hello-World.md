@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll 搭建静态博客"
 date:   2016-03-30 15:14:54
-categories: Hello
+categories: jekyll
 excerpt: Jekyll
 ---
 
