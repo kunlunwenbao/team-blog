@@ -20,7 +20,7 @@ icon: glyphicon-play
 
 
 
-###  2015-01-07 / Android v1.0.0 
+###  2015-01-07 / iOS v1.0.0 
 
 =======
 
