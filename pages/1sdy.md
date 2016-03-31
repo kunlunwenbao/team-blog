@@ -7,7 +7,7 @@ icon: glyphicon-time
 
 ## 赛导游iOS版 
 
-
+------------------------------
 
 ### iOS v1.0.3
 
@@ -32,6 +32,7 @@ icon: glyphicon-time
 
 ## 赛导游Android版
 
+------------------------------
 
 ### Android v1.0.3
 
