@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: 更新志
 permalink: /changelog
@@ -47,3 +47,4 @@ icon: glyphicon-time
 发布了第一版。
 
 ------------------------------
+-->
